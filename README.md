@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr" data-theme="light">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Portfolio expert de Safouane Lamkimel - Développeur Fullstack, UI/UX Designer & Consultant Tech">
-    <meta name="keywords" content="Safouane Lamkimel, Développeur Fullstack, React, Node.js, Portfolio">
-    <meta property="og:title" content="Safouane Lamkimel | Expert en Développement Web">
-    <meta property="og:image" content="https://i.imgur.com/your-social-preview.jpg">
-    <title>Safouane Lamkimel | Expert Fullstack</title>
-    
+
     <!-- Preload CSS/JS -->
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style">
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" as="font">
